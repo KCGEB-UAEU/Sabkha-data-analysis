@@ -1,0 +1,43 @@
+##Metawrap whole genome assembly and annotation
+
+#
+gunzip *.gz
+
+#
+for F in illumina_raw_reads/*_1.fq; do  R=${F%_*}_2.fq; BASE=${F##*/}; SAMPLE=${BASE%_*}; metawrap read_qc -1 $F -2 $R -t 90 -o READ_QC/$SAMPLE; done
+
+#
+mkdir CLEAN_READS_ALL
+
+#
+for i in READ_QC/*; do  b=${i#*/}; mv ${i}/final_pure_reads_1.fastq CLEAN_READS_ALL/${b}_1.fastq; mv ${i}/final_pure_reads_2.fastq CLEAN_READS_ALL/${b}_2.fastq; done
+
+cat CLEAN_READS_ALL/s*_1.fastq > CLEAN_READS_ALL/ALL_READS_1.fastq
+cat CLEAN_READS_ALL/s*_2.fastq > CLEAN_READS_ALL/ALL_READS_2.fastq
+
+#
+metawrap assembly -1 CLEAN_READS_ALL/ALL_READS_1.fastq -2 CLEAN_READS_ALL/ALL_READS_2.fastq -m 3000 -t 96  --metaspades -o ASSEMBLY
+
+#
+metawrap kraken2 -o KRAKEN2 -t 90 -s 50000000 /home/kcgeb/kcnagu/wgmg_sabkha/CLEAN_READS_ALL/s*.fastq /home/kcgeb/kcnagu/wgmg_sabkha/ASSEMBLY/final_assembly.fasta
+
+#
+metawrap binning -o INITIAL_BINNING -t 90 -m 750 -a /home/kcgeb/kcnagu/wgmg_sabkha/ASSEMBLY/final_assembly.fasta --metabat2 --maxbin2 --concoct --universal /home/kcgeb/kcnagu/wgmg_sabkha/CLEAN_READS_ALL/s*.fastq
+
+#
+metawrap bin_refinement -o BIN_REFINEMENT -t 90 -A INITIAL_BINNING/metabat2_bins/ -B INITIAL_BINNING/maxbin2_bins/ -C INITIAL_BINNING/concoct_bins/ -c 50 -x 10
+
+#
+metawrap blobology -a /home/kcgeb/kcnagu/wgmg_sabkha/ASSEMBLY/final_assembly.fasta -t 96 -o BLOBOLOGY --bins BIN_REFINEMENT/metawrap_50_10_bins /home/kcgeb/kcnagu/wgmg_sabkha/CLEAN_READS_ALL/s*.fastq
+
+#
+metawrap quant_bins -b BIN_REFINEMENT/metawrap_50_10_bins -o QUANT_BINS -a /home/kcgeb/kcnagu/wgmg_sabkha/ASSEMBLY/final_assembly.fasta /home/kcgeb/kcnagu/wgmg_sabkha/CLEAN_READS_ALL/s*.fastq
+
+#
+metawrap reassemble_bins -o BIN_REASSEMBLY -1 CLEAN_READS_ALL/ALL_READS_1.fastq -2 CLEAN_READS_ALL/ALL_READS_2.fastq -t 96 -m 3000 -c 50 -x 10 -b BIN_REFINEMENT/metawrap_50_10_bins
+
+#
+metawrap classify_bins -b BIN_REASSEMBLY/reassembled_bins -o BIN_CLASSIFICATION -t 40
+
+#
+metaWRAP annotate_bins -o FUNCT_ANNOT -t 96 -b BIN_REASSEMBLY/reassembled_bins/
