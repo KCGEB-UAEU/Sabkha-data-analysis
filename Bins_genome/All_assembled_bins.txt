@@ -1,0 +1,1 @@
+Here, we have provided 225 assembled bin fasta files.
