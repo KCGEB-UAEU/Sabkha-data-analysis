@@ -1,0 +1,226 @@
+Bin_id	Completeness	Contamination	GC	Domain	lineage	lineage	N50	Genome_size	Number_of_Contigs	Annotation				
+bin.222.orig	100	2.027	0.567	Bacteria	Bacteria		15300	2940456	contigs: 267	CDS: 2490	tRNA: 28			
+bin.45.orig	100	0.136	0.601	Bacteria	Gammaproteobacteria	Pseudomonas	153319	3129064	contigs: 24	CDS: 2870	tRNA: 23	tmRNA: 1		
+bin.24.strict	99.72	0.449	0.593	Bacteria	Alphaproteobacteria	Alphaproteobacteria	10906	2739392	contigs: 402	CDS: 2525	tRNA: 18			
+bin.176.orig	99.64	0.352	0.536	Bacteria	Gammaproteobacteria	Gammaproteobacteria	5447	2131476	contigs: 452	CDS: 2232	tRNA: 23			
+bin.44.orig	99.32	2.027	0.552	Bacteria	Bacteria		370678	5323633	contigs: 160	CDS: 5126	rRNA: 2	tRNA: 46	tmRNA: 1	
+bin.71.orig	98.75	0.409	0.62	Bacteria	Rhizobiales	Pelagibacterium halotolerans	19762	517915	contigs: 64	CDS: 485	rRNA: 2	tRNA: 9	tmRNA: 1	
+bin.206.orig	98.7	1.388	0.563	Bacteria	Gammaproteobacteria	Gammaproteobacteria	8554	1681569	contigs: 223	CDS: 1728	tRNA: 7			
+bin.68.orig	98.62	0.628	0.588	Bacteria	Gammaproteobacteria	Gammaproteobacteria	44881	2008214	contigs: 44	CDS: 1959	tRNA: 27	tmRNA: 1		
+bin.95.orig	98.52	1.471	0.513	Bacteria	Gammaproteobacteria	Alteromonadales	351902	3394083	contigs: 17	CDS: 3166	rRNA: 1	tRNA: 43	tmRNA: 1	
+bin.124.orig	98.26	0.185	0.619	Bacteria	Gammaproteobacteria	Alcanivorax xenomutans	5796	2826287	contigs: 551	CDS: 2685	tRNA: 27			
+bin.123.orig	98.22	0.431	0.58	Bacteria	Gammaproteobacteria	Halomonas	13768	4632616	contigs: 470	CDS: 4529	tRNA: 41			
+bin.217.orig	98.18	0	0.543	Bacteria	Gammaproteobacteria	Gammaproteobacteria	20375	2756608	contigs: 212	CDS: 2930	rRNA: 1	tRNA: 26		
+bin.163.orig	97.97	0.856	0.698	Bacteria	Burkholderiales	Comamonadaceae	11690	2193451	contigs: 229	CDS: 2297	tRNA: 16			
+bin.210.orig	97.95	1.709	0.723	Bacteria	Bacteria	Actinobacteria 	5659	2531433	contigs: 517	CDS: 2826	tRNA: 20			
+bin.224.strict	97.9	1.575	0.418	Bacteria	algicola	Flavobacteriales	52390	3401499	contigs: 120	CDS: 3301	tRNA: 35			
+bin.140.orig	97.64	0.502	0.644	Bacteria	Gammaproteobacteria	Marinobacter	20442	4046067	contigs: 325	CDS: 3977	tRNA: 29	tmRNA: 1		
+bin.132.orig	97.19	2.136	0.745	Bacteria	Bacteria	Actinobacteria	6297	1734934	contigs: 330	CDS: 1968	rRNA: 1	tRNA: 21		
+bin.228.orig	96.86	0.454	0.622	Bacteria	Rhodobacteraceae	Rhodobacteraceae	25135	4267501	contigs: 447	CDS: 4128	rRNA: 3	tRNA: 52		
+bin.83.orig	96.72	1.366	0.599	Bacteria	Bacteria		12494	1562733	contigs: 195	CDS: 1425	tRNA: 21			
+bin.65.orig	96.53	0.323	0.591	Bacteria	Gammaproteobacteria	Marinobacter	41218	2504426	contigs: 86	CDS: 2429	tRNA: 27			
+bin.202.orig	96.42	2.058	0.56	Bacteria	Bacteria		84390	9379906	contigs: 148	CDS: 7708	repeat_region: 6	tRNA: 66	tmRNA: 1	
+bin.170.orig	96.32	1.709	0.735	Bacteria	Actinobacteria	Actinobacteria	4954	3071047	contigs: 680	CDS: 3116	tRNA: 26			
+bin.7.orig	96.3	1.74	0.635	Bacteria	Sphingomonadales	Sphingomonadales	138577	2858585	contigs: 51	CDS: 2753	tRNA: 28	tmRNA: 1		
+bin.48.orig	96.26	0.301	0.636	Bacteria	Rhodobacteraceae	Rhodobacteraceae	45320	4089172	contigs: 205	CDS: 3610	tRNA: 18	tmRNA: 2		
+bin.125.orig	96.17	1.434	0.426	Bacteria	Bacteria		12869	3441028	contigs: 305	CDS: 3314	repeat_region: 1	tRNA: 29	tmRNA: 1	
+bin.102.orig	96.1	0.27	0.668	Bacteria	Alphaproteobacteria	Marinicauda algicola	4398	1768574	contigs: 432	CDS: 1585	rRNA: 1	tRNA: 14		
+bin.216.orig	95.76	2.485	0.616	Bacteria	Gammaproteobacteria	Gammaproteobacteria	3569	3377329	contigs: 1126	CDS: 3341	tRNA: 24	tmRNA: 2		
+bin.180.orig	95.65	2.768	0.715	Bacteria	Rhodobacteraceae	Rhodobacterales	13728	2134464	contigs: 203	CDS: 2159	tRNA: 32			
+bin.211.orig	95.6	4.395	0.695	Bacteria	Bacteria		3024	1678504	contigs: 638	CDS: 1716	tRNA: 12			
+bin.157.orig	95.43	0.06	0.358	Bacteria	Bacilli	Bacillales	5478	3043168	contigs: 652	CDS: 3123	tRNA: 20			
+bin.39.orig	95.26	1.063	0.693	Bacteria	Actinomycetales	Actinomycetia	12113	1815187	contigs: 191	CDS: 1945	tRNA: 26			
+bin.214.orig	95.24	1.544	0.613	Bacteria	Alphaproteobacteria	Alphaproteobacteria	29130	4142605	contigs: 164	CDS: 3969	tRNA: 37	tmRNA: 1		
+bin.59.orig	95.22	1.724	0.618	Bacteria	Gammaproteobacteria	Alteromonadales	9952	3286289	contigs: 342	CDS: 3141	tRNA: 24			
+bin.221.orig	95.03	6.236	0.67	Bacteria	Alphaproteobacteria	Alphaproteobacteria	19024	4749594	contigs: 244	CDS: 4073	repeat_region: 2	tRNA: 26	tmRNA: 1	
+bin.29.orig	94.89	1.877	0.57	Bacteria	Gammaproteobacteria	Gammaproteobacteria	24780	3268617	contigs: 84	CDS: 3086	tRNA: 18	tmRNA: 1		
+bin.204.orig	94.61	0.488	0.638	Bacteria	Sphingomonadales	Sphingomonadales	5780	2635863	contigs: 525	CDS: 2886	tRNA: 13			
+bin.50.orig	94.55	2.508	0.713	Bacteria	Rhodobacteraceae	Rhodobacterales	32215	3523738	contigs: 122	CDS: 3314	tRNA: 33	tmRNA: 1		
+bin.150.orig	94.52	1.272	0.598	Bacteria	Rhodobacteraceae	Rhodobacterales	14803	3950199	contigs: 395	CDS: 3909	tRNA: 47	tmRNA: 1		
+bin.93.orig	94.5	0	0.66	Bacteria	Bacteria	Actinobacteria	17522	800487	contigs: 61	CDS: 904	rRNA: 1	tRNA: 20		
+bin.190.orig	94.38	0.854	0.729	Bacteria	Bacteria	Actinobacteria	9609	2038816	contigs: 287	CDS: 2021	tRNA: 16			
+bin.82.orig	94.21	1.47	0.681	Bacteria	Rhodobacteraceae	Rhodobacteraceae	3899	4086008	contigs: 1005	CDS: 3507	repeat_region: 8	tRNA: 31	tmRNA: 1	
+bin.115.strict	94.12	5.982	0.706	Bacteria	Bacteria		11842	3890047	contigs: 487	CDS: 3685	tRNA: 31	tmRNA: 2		
+bin.173.orig	94.1	1.192	0.664	Bacteria	Pseudomonadales	Pseudomonadales	3938	1880320	contigs: 530	CDS: 2046	tRNA: 15			
+bin.12.orig	93.65	1.122	0.697	Bacteria	Actinomycetales		15730	4593059	contigs: 1026	CDS: 4358	rRNA: 1	tRNA: 44	tmRNA: 1	
+bin.22.orig	93.47	1.681	0.476	Bacteria	Cyanobacteria	Cyanobacteria	40248	2778400	contigs: 123	CDS: 2640	tRNA: 36	tmRNA: 1		
+bin.153.orig	93.14	0.168	0.498	Bacteria	Gammaproteobacteria	Gammaproteobacteria	14284	2718818	contigs: 275	CDS: 2405	rRNA: 1	tRNA: 27	tmRNA: 1	
+bin.194.orig	92.92	0.912	0.671	Bacteria	Gammaproteobacteria	Halomonas	14001	3014351	contigs: 299	CDS: 2949	rRNA: 1	tRNA: 39	tmRNA: 1	
+bin.187.orig	92.87	2.028	0.635	Archaea	Halobacteriaceae	Halobacteria 	25327	2752172	contigs: 151	CDS: 2609	tRNA: 35	tmRNA: 1		
+bin.158.orig	92.68	1.698	0.642	Bacteria	Hyphomicrobiales	Hyphomicrobiales	23925	4758420	contigs: 182	CDS: 4390	tRNA: 42	tmRNA: 1		
+bin.113.orig	92.59	3.148	0.654	Bacteria	Bacteria		9135	3436524	contigs: 1098	CDS: 3217	rRNA: 1	tRNA: 76		
+bin.147.orig	92.48	0.867	0.639	Archaea	Halobacteriaceae	Halobacteria 	6681	1722179	contigs: 267	CDS: 1910	tRNA: 14			
+bin.18.strict	92.2	2.753	0.58	Bacteria	Gammaproteobacteria	Gammaproteobacteria 	4019	2796984	contigs: 715	CDS: 2897	tRNA: 17	tmRNA: 1		
+bin.46.orig	92.17	1.276	0.548	Archaea	Halobacteriaceae	Halobacteria	51579	3930967	contigs: 118	CDS: 3538	tRNA: 34			
+bin.21.orig	92.16	1.296	0.604	Bacteria	Gammaproteobacteria	Proteobacteria	22691	3202660	contigs: 403	CDS: 2984	repeat_region: 6	tRNA: 23		
+bin.133.orig	91.99	3.877	0.747	Bacteria	Actinomycetales	Pseudonocardia	4248	1766230	contigs: 466	CDS: 1944	rRNA: 1	tRNA: 29		
+bin.58.orig	91.99	2.635	0.714	Bacteria	Bacteria	Actinobacteria	217890	4877545	contigs: 43	CDS: 4376	rRNA: 2	repeat_region: 1	tRNA: 35	
+bin.198.orig	91.88	0.714	0.603	Bacteria	Gammaproteobacteria	Pseudomonas	2833	1666315	contigs: 550	CDS: 1776	rRNA: 1	tRNA: 9		
+bin.74.orig	91.36	1.63	0.637	Bacteria	Gammaproteobacteria	Gammaproteobacteria	2557	2182404	contigs: 827	CDS: 2133	tRNA: 9			
+bin.165.orig	91.33	1.803	0.562	Bacteria	Gammaproteobacteria	Gammaproteobacteria	31604	2951814	contigs: 97	CDS: 2862	rRNA: 1	tRNA: 30	tmRNA: 1	
+bin.30.orig	90.97	1.98	0.598	Archaea	Halobacteriaceae	Halobacteria	6836	3017080	contigs: 509	CDS: 2702	tRNA: 11			
+bin.117.orig	90.94	0.336	0.472	Bacteria	Gammaproteobacteria	Idiomarina	13734	3537106	contigs: 308	CDS: 3248	tRNA: 28			
+bin.10.orig	90.43	1.111	0.65	Bacteria	Bacteria		26097	4166992	contigs: 176	CDS: 3983	tRNA: 40	tmRNA: 1		
+bin.227.orig	90.36	4.7	0.723	Bacteria	Bacteria	Actinobacteria	19854	2246377	contigs: 122	CDS: 2311	tRNA: 23			
+bin.1.orig	90.35	1.908	0.707	Bacteria	Burkholderiales	Comamonadaceae	3594	3041295	contigs: 923	CDS: 2781	tRNA: 32			
+bin.177.strict	90.2	2.025	0.69	Bacteria	Actinomycetales		11591	2639235	contigs: 334	CDS: 2734	tRNA: 33	tmRNA: 1		
+bin.209.permissive	89.9	0.99	0.627	Bacteria	Firmicutes	Terrabacteria	2417	2594631	contigs: 1039	CDS: 2515	tRNA: 13	tmRNA: 1		
+bin.91.orig	89.74	3.296	0.727	Bacteria	Bacteria		8323	1978293	contigs: 344	CDS: 1895	rRNA: 1	tRNA: 27		
+bin.42.orig	89.71	1.474	0.668	Bacteria	Alphaproteobacteria	Pelagerythrobacter marensis	8508	1835564	contigs: 311	CDS: 1895	tRNA: 12			
+bin.188.orig	89.44	1.739	0.695	Bacteria	Alphaproteobacteria	Proteobacteria	13356	2527048	contigs: 218	CDS: 2363	rRNA: 1	tRNA: 35		
+bin.175.orig	89.08	0.854	0.716	Bacteria	Bacteria	Actinobacteria	7972	1496865	contigs: 248	CDS: 1615	tRNA: 11			
+bin.4.orig	88.98	1.994	0.728	Bacteria	Bacteria	Actinobacteria	5696	4174541	contigs: 1229	CDS: 3918	rRNA: 27	repeat_region: 9	tRNA: 23	
+bin.36.orig	88.88	1.025	0.735	Bacteria	Bacteria	Actinobacteria	52983	4017227	contigs: 153	CDS: 3968	tRNA: 32			
+bin.145.orig	88.72	0.905	0.586	Bacteria	Gammaproteobacteria	Gammaproteobacteria	9363	2484377	contigs: 350	CDS: 2696	tRNA: 33			
+bin.223.orig	88.53	0.694	0.597	Bacteria	Gammaproteobacteria	Marinobacter	40473	3776830	contigs: 119	CDS: 3658	tRNA: 33			
+bin.106.orig	88.46	0.908	0.607	Bacteria	Bacteria		27099	4348445	contigs: 215	CDS: 4092	tRNA: 52	tmRNA: 1		
+bin.60.orig	88.2	8.891	0.677	Bacteria	Alphaproteobacteria	Alphaproteobacteria	10558	4903904	contigs: 717	CDS: 4198	repeat_region: 1	tRNA: 44	tmRNA: 1	
+bin.219.strict	88.13	0.462	0.641	Bacteria	Bacteria		8481	3355537	contigs: 460	CDS: 3297	tRNA: 33			
+bin.146.orig	87.95	2.644	0.639	Archaea	Halobacteriaceae	Halobacteria	3658	1919057	contigs: 545	CDS: 1862	tRNA: 10	tmRNA: 1		
+bin.128.orig	87.15	0.491	0.646	Bacteria	Hyphomicrobiales	Hyphomicrobiales	3633	2222428	contigs: 664	CDS: 2131	tRNA: 17			
+bin.43.strict	86.96	2.084	0.692	Archaea	Euryarchaeota	Euryarchaeota	7164	1825738	contigs: 474	CDS: 2036	tRNA: 33			
+bin.79.orig	86.81	1.936	0.601	Bacteria	Gammaproteobacteria	Gammaproteobacteria	4573	924944	contigs: 227	CDS: 1071	tRNA: 20			
+bin.31.orig	86.67	2.935	0.662	Bacteria	Sphingomonadales	Sphingomonadales	14509	1944354	contigs: 225	CDS: 1984	tRNA: 33			
+bin.184.orig	86.61	1.388	0.695	Bacteria	Gammaproteobacteria	Proteobacteria	29363	3701572	contigs: 205	CDS: 3342	repeat_region: 1	tRNA: 35	tmRNA: 1	
+bin.131.orig	86.41	0.915	0.672	Bacteria	Gammaproteobacteria	Halomonadaceae 	33658	3421523	contigs: 139	CDS: 3280	rRNA: 2	tRNA: 41	tmRNA: 1	
+bin.80.orig	86.34	2.415	0.639	Bacteria	Rhodobacteraceae	Rhodobacteraceae	13353	924644	contigs: 77	CDS: 868	tRNA: 11	tmRNA: 1		
+bin.112.orig	86.29	0.467	0.494	Archaea	Archaea	Candidatus Nanohalobium	24118	3046320	contigs: 143	CDS: 2867	rRNA: 1	tRNA: 37	tmRNA: 1	
+bin.141.orig	86.15	0.341	0.687	Bacteria	Bacteria	Actinobacteria	5683	2212722	contigs: 449	CDS: 2364	tRNA: 17			
+bin.226.orig	86.1	1.78	0.688	Bacteria	Alphaproteobacteria	Alphaproteobacteria	14851	2780533	contigs: 361	CDS: 2588	rRNA: 1	tRNA: 26	tmRNA: 1	
+bin.143.orig	85.88	1.1	0.608	Archaea	Halobacteriaceae	Halobacteria	5027	3031688	contigs: 568	CDS: 2937	tRNA: 31			
+bin.35.orig	85.76	1.709	0.732	Bacteria	Bacteria	Actinobacteria	69183	2857798	contigs: 93	CDS: 2483	tRNA: 38	tmRNA: 1		
+bin.101.orig	85.64	2.302	0.691	Bacteria	Alphaproteobacteria	Alphaproteobacteria	27184	3665876	contigs: 163	CDS: 3628	tRNA: 58	tmRNA: 1		
+bin.191.orig	84.97	3.347	0.662	Bacteria	Gammaproteobacteria	Proteobacteria	7886	1306366	contigs: 202	CDS: 1370	tRNA: 19			
+bin.84.orig	84.84	2.867	0.54	Bacteria	Bacteria		23529	2271840	contigs: 72	CDS: 2089	tRNA: 37	tmRNA: 1		
+bin.192.orig	84.48	1.113	0.456	Bacteria	Cyanobacteria	Cyanobacteria	34172	4294196	contigs: 162	CDS: 3902	repeat_region: 3	tRNA: 23	tmRNA: 1	
+bin.179.orig	84.36	1.628	0.563	Archaea	Halobacteriaceae	Halobacteria	8359	3688691	contigs: 923	CDS: 3624	rRNA: 1	tRNA: 45	tmRNA: 1	
+bin.77.orig	84.33	3.455	0.674	Archaea	Halobacteriaceae	Halobacteria 	3968	638318	contigs: 157	CDS: 731	tRNA: 2			
+bin.19.orig	83.53	9.803	0.746	Bacteria	Bacteria		4710	2634336	contigs: 650	CDS: 2915	tRNA: 27			
+bin.11.orig	82.74	1.098	0.727	Bacteria	Bacteria		27552	4071077	contigs: 780	CDS: 3740	tRNA: 45			
+bin.26.strict	82.62	2.205	0.645	Bacteria	Gammaproteobacteria	Gammaproteobacteria	11792	2602088	contigs: 249	CDS: 2787	tRNA: 24			
+bin.20.orig	82.12	3.868	0.625	Archaea	Halobacteriaceae	Halobacteria 	2395	882490	contigs: 362	CDS: 1058	tRNA: 7			
+bin.114.orig	81.93	0.887	0.693	Bacteria	Proteobacteria	Proteobacteria	31165	3473712	contigs: 156	CDS: 3297	repeat_region: 2	tRNA: 36	tmRNA: 1	
+bin.144.strict	81.52	1.739	0.672	Bacteria	Alphaproteobacteria	Proteobacteria 	29917	3830214	contigs: 170	CDS: 3362	tRNA: 38	tmRNA: 1		
+bin.52.orig	81.36	1.709	0.731	Bacteria	Bacteria	Actinobacteria	3856	4404585	contigs: 1072	CDS: 4410	tRNA: 20	tmRNA: 1		
+bin.94.strict	81.17	2.14	0.652	Bacteria	Rhizobiales	Alteromonadales	29636	2958204	contigs: 187	CDS: 2530	tRNA: 25			
+bin.3.orig	81.15	2.198	0.701	Archaea	Halobacteriaceae	Halobacteria	9803	1666120	contigs: 171	CDS: 1793	tRNA: 13	tmRNA: 1		
+bin.76.strict	80.96	2.732	0.455	Bacteria	Bacteria	Bacteroidetes	2825	3378584	contigs: 1306	CDS: 3333	tRNA: 18	tmRNA: 1		
+bin.231.orig	80.66	0.557	0.593	Bacteria	Alcanivorax 	Alcanivorax 	80505	3878046	contigs: 84	CDS: 3680	tRNA: 39	tmRNA: 1		
+bin.138.orig	79.73	2.524	0.442	Bacteria	Cyanobacteria	Cyanobacteria	2796	1452499	contigs: 482	CDS: 1416	rRNA: 1	tRNA: 21		
+bin.200.orig	79.47	1.754	0.711	Bacteria	Bacteria		13105	1998812	contigs: 228	CDS: 2201	tRNA: 22	tmRNA: 1		
+bin.32.orig	79.34	8.258	0.745	Bacteria	Bacteria		1047018	4235566	contigs: 9	CDS: 3914	tRNA: 52	tmRNA: 1		
+bin.215.orig	79.17	0	0.677	Bacteria	Bacteria		111783	2175730	contigs: 183	CDS: 2014	rRNA: 26	tRNA: 64	tmRNA: 1	
+bin.156.orig	79.05	3.466	0.689	Archaea	Halobacteriaceae	Halobacteria 	6249	2775396	contigs: 289	CDS: 2701	rRNA: 1	tRNA: 24	tmRNA: 1	
+bin.109.strict	78.75	0	0.34	Bacteria	Halobacteria 	Halobacteria 	4339	1900846	contigs: 472	CDS: 1882	tRNA: 23	tmRNA: 1		
+bin.17.orig	78.22	0.494	0.694	Bacteria	Bacteria		28956	3861987	contigs: 190	CDS: 3795	repeat_region: 1	tRNA: 36		
+bin.196.orig	78.18	0.8	0.718	Bacteria	Bacteria		51629	2453175	contigs: 63	CDS: 2483	tRNA: 46			
+bin.121.orig	78.15	1.741	0.705	Bacteria	Proteobacteria	Proteobacteria	39573	3994824	contigs: 132	CDS: 4003	rRNA: 1	tRNA: 47	tmRNA: 1	
+bin.229.orig	77.57	1.942	0.728	Bacteria	Bacteria	Actinobacteria	8259	2466808	contigs: 411	CDS: 2351	repeat_region: 1	tRNA: 25		
+bin.57.orig	77.52	2.645	0.671	Bacteria	Proteobacteria	Proteobacteria	10554	584481	contigs: 118	CDS: 680	rRNA: 2	tRNA: 16		
+bin.81.orig	77.49	2.591	0.656	Archaea	Halobacteriaceae	Halobacteria 	9274	834200	contigs: 185	CDS: 779	rRNA: 10	tRNA: 30		
+bin.86.orig	77.4	1.276	0.597	Archaea	Halobacteriaceae	Halobacteria 	31687	2366455	contigs: 138	CDS: 2060	tRNA: 24			
+bin.25.orig	77.18	1.123	0.544	Bacteria	Bacteria		28128	4146129	contigs: 178	CDS: 3854	rRNA: 1	tRNA: 32	tmRNA: 1	
+bin.166.orig	76.89	2.978	0.667	Archaea	Halobacteriaceae	Natronomonas halophila	3931	1885637	contigs: 481	CDS: 2078	tRNA: 20			
+bin.89.orig	76.61	2.08	0.66	Archaea	Halobacteriaceae	Halobacteriaceae	4811	3361959	contigs: 674	CDS: 2913	repeat_region: 1	tRNA: 6		
+bin.127.orig	76.4	0.4	0.629	Archaea	Halobacteriaceae	Halobacteria 	3982	3421200	contigs: 770	CDS: 3949	rRNA: 3	tRNA: 35		
+bin.167.orig	76.14	0.854	0.726	Bacteria	Bacteria	Terrabacteria 	2162	3027932	contigs: 1580	CDS: 2917	rRNA: 7	tRNA: 32		
+bin.182.orig	75.87	0.311	0.438	Archaea	Archaea	Candidatus Nanohalobium	9666	2463781	contigs: 391	CDS: 2336	tRNA: 38	tmRNA: 2		
+bin.122.strict	75.61	1.986	0.533	Archaea	Euryarchaeota	Stenosarchaea 	27245	3613090	contigs: 145	CDS: 3404	rRNA: 1	tRNA: 51	tmRNA: 1	
+bin.16.orig	75.57	7.17	0.626	Bacteria	Bacteria	Rhodothermaceae 	10683	3100080	contigs: 832	CDS: 3003	tRNA: 45			
+bin.160.strict	75.17	0	0.574	Bacteria	Bacteria	Gammaproteobacteria 	25714	4049739	contigs: 277	CDS: 3960	tRNA: 34			
+bin.142.orig	75.04	0.492	0.444	Bacteria	Bacteroidetes	Bacteroidetes	41196	3811322	contigs: 622	CDS: 3733	rRNA: 2	repeat_region: 1	tRNA: 59	tmRNA: 1
+bin.103.strict	74.54	4.937	0.676	Bacteria	Bacteria	Proteobacteria	9595	3337899	contigs: 465	CDS: 3246	tRNA: 29	tmRNA: 1		
+bin.203.orig	74.44	3.267	0.699	Archaea	Euryarchaeota	Halobacteria 	18362	3890415	contigs: 562	CDS: 3912	tRNA: 42			
+bin.197.strict	74.13	2.882	0.594	Archaea	Euryarchaeota	Halobacteria 	4651	2615336	contigs: 546	CDS: 2605	rRNA: 1	repeat_region: 3	tRNA: 31	
+bin.69.orig	74.13	4.31	0.703	Bacteria	Bacteria		12853	3299551	contigs: 278	CDS: 2695	rRNA: 1	tRNA: 34		
+bin.168.orig	73.57	8.706	0.708	Archaea	Halobacteriaceae	Halobacteriaceae	8796	2176296	contigs: 351	CDS: 2369	tRNA: 17			
+bin.212.orig	73.5	5.701	0.512	Bacteria	Bacteria		2764	3919141	contigs: 1828	CDS: 3623	tRNA: 21			
+bin.64.orig	73.5	1.934	0.498	Bacteria	Cytophagales	Bacteroidetes	26975	5382114	contigs: 239	CDS: 4230	tRNA: 42	tmRNA: 1		
+bin.15.permissive	72.92	3.542	0.554	Bacteria	Bacteria		243739	4692858	contigs: 31	CDS: 4485	tRNA: 46	tmRNA: 1		
+bin.100.strict	71.65	1.35	0.443	Bacteria	Cyanobacteria	Cyanobacteria	17840	8057308	contigs: 478	CDS: 6353	repeat_region: 1	tRNA: 89	tmRNA: 1	
+bin.33.orig	71.5	2.136	0.739	Bacteria	Bacteria	Actinobacteria	42265	2649434	contigs: 103	CDS: 2501	tRNA: 22			
+bin.119.permissive	70.86	2.706	0.641	Bacteria	Bacteria		3597	2088971	contigs: 605	CDS: 2248	tRNA: 34	tmRNA: 1		
+bin.174.orig	70.77	3.117	0.545	Bacteria	Gammaproteobacteria	Gammaproteobacteria 	5661	2343060	contigs: 484	CDS: 2332	rRNA: 2	tRNA: 20		
+bin.130.strict	70.55	3.791	0.616	Bacteria	Gammaproteobacteria	Gammaproteobacteria 	21275	4724141	contigs: 251	CDS: 4152	rRNA: 1	tRNA: 39	tmRNA: 1	
+bin.186.orig	70.06	5.228	0.707	Archaea	Halobacteriaceae	Halobacteria 	24953	4554951	contigs: 297	CDS: 4297	tRNA: 52	tmRNA: 2		
+bin.96.orig	70.02	1.176	0.665	Bacteria	Gammaproteobacteria	Gammaproteobacteria	3918	2179369	contigs: 546	CDS: 1875	repeat_region: 2	tRNA: 21		
+bin.161.orig	69.79	0	0.513	Bacteria	Bacteria		32850	3776170	contigs: 461	CDS: 3768	rRNA: 1	tRNA: 47		
+bin.178.orig	69.76	0.816	0.678	Archaea	Euryarchaeota	Halobacteria 	6264	1587650	contigs: 292	CDS: 1556	rRNA: 2	tRNA: 34	tmRNA: 1	
+bin.5.orig	69.28	1.744	0.638	Bacteria	Bacteria	Salinibacter ruber	5552	1452297	contigs: 292	CDS: 1416	tRNA: 6			
+bin.37.orig	68.89	3.262	0.714	Archaea	Halobacteriaceae	Halobacteria	32422	2655299	contigs: 135	CDS: 2776	tRNA: 30			
+bin.87.orig	68.25	1.956	0.721	Bacteria	Alphaproteobacteria	Alphaproteobacteria	6080	1984071	contigs: 414	CDS: 1615	tRNA: 9	tmRNA: 1		
+bin.2.orig	68.05	6.48	0.645	Archaea	Halobacteriaceae	Halobacteria 	3983	2339703	contigs: 604	CDS: 2301	repeat_region: 2	tRNA: 16		
+bin.28.orig	67.76	7.99	0.721	Bacteria	Bacteria	Actinobacteria	31488	4100521	contigs: 164	CDS: 3619	tRNA: 31	tmRNA: 1		
+bin.199.orig	67.71	7.758	0.755	Bacteria	Bacteria		7661	3047579	contigs: 528	CDS: 2726	tRNA: 20			
+bin.139.orig	67.7	1.702	0.683	Archaea	Halobacteriaceae	Halobacterium	8641	4313125	contigs: 549	CDS: 4120	tRNA: 32			
+bin.236.strict	67.63	0.862	0.476	Bacteria	Bacteria		47595	5386414	contigs: 167	CDS: 4778	tRNA: 20	tmRNA: 1		
+bin.230.orig	67.19	1.724	0.594	Bacteria	Bacteria	Alphaproteobacteria	2841	2402490	contigs: 808	CDS: 2500	tRNA: 13			
+bin.169.orig	66.35	3.921	0.714	Archaea	Euryarchaeota	Halobacteria 	3061	1425162	contigs: 493	CDS: 1401	repeat_region: 1	tRNA: 15		
+bin.164.strict	66.32	1.246	0.594	Bacteria	Gammaproteobacteria	Proteobacteria 	22337	3988680	contigs: 251	CDS: 3868	tRNA: 37	tmRNA: 1		
+bin.201.orig	66.1	3.56	0.687	Archaea	Halobacteriaceae	Halobacteria 	3118	5029255	contigs: 1676	CDS: 5081	tRNA: 37			
+bin.105.orig	65.54	0.666	0.623	Bacteria	Alphaproteobacteria	Alphaproteobacteria 	35951	3655576	contigs: 125	CDS: 3459	tRNA: 37	tmRNA: 1		
+bin.92.orig	65.38	2.133	0.647	Archaea	Halobacteriaceae	Halobacteria	14702	2070174	contigs: 180	CDS: 1950	tRNA: 29	tmRNA: 1		
+bin.154.orig	65.29	5.172	0.731	Bacteria	Bacteria		13068	2944118	contigs: 372	CDS: 2725	tRNA: 35	tmRNA: 1		
+bin.66.orig	65.11	4.273	0.726	Bacteria	Bacteria	Actinobacteria	4865	3214268	contigs: 630	CDS: 3046	repeat_region: 1	tRNA: 12	tmRNA: 1	
+bin.54.orig	64.87	3.271	0.493	Archaea	Archaea	Candidatus Nanohalobium	39953	2842976	contigs: 79	CDS: 2737	tRNA: 36	tmRNA: 1		
+bin.134.strict	63.76	0.374	0.475	Bacteria	Bacteria		15201	3580471	contigs: 294	CDS: 3449	repeat_region: 1	tRNA: 30		
+bin.189.orig	62.25	8.15	0.675	Bacteria	Bacteria	Proteobacteria 	7639	2775005	contigs: 469	CDS: 2992	rRNA: 1	tRNA: 22		
+bin.78.orig	62.14	2.357	0.657	Archaea	Halobacteriaceae	Halobacteria 	162782	955355	contigs: 14	CDS: 1126	rRNA: 1	tRNA: 13		
+bin.205.orig	61.84	0	0.497	Archaea	Archaea		16101	6890023	contigs: 522	CDS: 5814	tRNA: 46	tmRNA: 1		
+bin.108.orig	61.48	5.427	0.576	Bacteria	Bacteria		17656	3090115	contigs: 224	CDS: 2945	tRNA: 38	tmRNA: 1		
+bin.63.orig	61.34	5.393	0.678	Archaea	Halobacteriaceae	Halobacteriales	111885	1296367	contigs: 138	CDS: 1302	rRNA: 1	tRNA: 21		
+bin.104.strict	61.19	5.329	0.63	Bacteria	Bacteria	Terrabacteria 	11660	2038933	contigs: 515	CDS: 1887	rRNA: 2	tRNA: 22	tmRNA: 2	
+bin.9.permissive	60.84	0	0.729	Bacteria	Bacteria		5736	2491770	contigs: 383	CDS: 2115	rRNA: 1	tRNA: 23	tmRNA: 1	
+bin.40.orig	60.74	7.009	0.68	Archaea	Archaea	Halobacteria	3408	1854910	contigs: 530	CDS: 1588	tRNA: 18			
+bin.85.orig	60.7	6.615	0.681	Archaea	Halobacteriaceae	Halobacteria 	9498	2705774	contigs: 339	CDS: 2495	tRNA: 24	tmRNA: 1		
+bin.38.orig	60.68	4.133	0.603	Archaea	Halobacteriaceae	Halobacteria	17491	4294044	contigs: 274	CDS: 3811	tRNA: 18	tmRNA: 1		
+bin.47.orig	60.68	5.172	0.697	Bacteria	Bacteria	Proteobacteria	115297	3912247	contigs: 68	CDS: 3328	tRNA: 21	tmRNA: 1		
+bin.61.strict	60.59	2.174	0.564	Archaea	Archaea	Candidatus Nanohalobium	4382	2334365	contigs: 460	CDS: 2379	tRNA: 11			
+bin.8.orig	60.34	0	0.719	Bacteria	Bacteria	Alphaproteobacteria	10782	675883	contigs: 74	CDS: 801	rRNA: 1	tRNA: 14		
+bin.225.orig	59.74	6.991	0.665	Bacteria	Alphaproteobacteria	Sphingomonadales	17858	3379683	contigs: 274	CDS: 3374	tRNA: 37			
+bin.116.orig	59.1	0.934	0.492	Archaea	Archaea	Candidatus Nanohalobium	18271	3731333	contigs: 288	CDS: 3436	tRNA: 34	tmRNA: 1		
+bin.88.strict	59.08	4.954	0.449	Bacteria	Bacteria		7162	2140231	contigs: 299	CDS: 1826	tRNA: 16			
+bin.14.orig	58.08	9.345	0.694	Archaea	Archaea	Halobacteria	4717	2786967	contigs: 678	CDS: 3024	tRNA: 29			
+bin.23.strict	58.07	2.586	0.724	Bacteria	Bacteria		11973	2693695	contigs: 376	CDS: 2815	tRNA: 18			
+bin.56.orig	58.03	4.918	0.448	Bacteria	Bacteria		28344	5527529	contigs: 188	CDS: 4295	rRNA: 1	tRNA: 39	tmRNA: 1	
+bin.75.orig	57.82	8.988	0.558	Bacteria	Bacteria		31939	2287303	contigs: 74	CDS: 2105	tRNA: 21	tmRNA: 1		
+bin.67.strict	57.75	5.172	0.736	Bacteria	Bacteria		9567	2744886	contigs: 279	CDS: 2665	rRNA: 1	tRNA: 21		
+bin.53.orig	57.22	9.574	0.569	Bacteria	Bacteria		57821	3852476	contigs: 330	CDS: 3536	rRNA: 1	repeat_region: 6	tRNA: 37	
+bin.62.orig	57.05	8.344	0.646	Bacteria	Gammaproteobacteria	Gammaproteobacteria	10873	2657733	contigs: 622	CDS: 2229	rRNA: 1	tRNA: 35	tmRNA: 1	
+bin.213.strict	56.75	0	0.527	Bacteria	Bacteria		71154	3967205	contigs: 106	CDS: 3547	tRNA: 26	tmRNA: 1		
+bin.129.orig	56.26	0	0.681	Bacteria	Bacteria	Rhodobacterales	2954	1594303	contigs: 541	CDS: 1787	tRNA: 14			
+bin.118.orig	56.03	0	0.448	Bacteria	Bacteria		5926	3552434	contigs: 650	CDS: 3421	rRNA: 1	tRNA: 30		
+bin.97.orig	55.58	4.476	0.603	Bacteria	Bacteria	Salinibacter ruber	17376	2853417	contigs: 146	CDS: 2862	rRNA: 2	tRNA: 14	tmRNA: 1	
+bin.152.orig	55.34	0.434	0.718	Bacteria	Alphaproteobacteria	Alphaproteobacteria 	67155	2543250	contigs: 80	CDS: 2234	rRNA: 2	tRNA: 50	tmRNA: 1	
+bin.220.permissive	55.17	1.724	0.411	Bacteria	Bacteria	Bacteroidetes	10158	2429147	contigs: 307	CDS: 2031	rRNA: 1	tRNA: 16		
+bin.135.orig	55.07	4.633	0.646	Archaea	Halobacteriaceae	Halobacteria	7850	4776547	contigs: 702	CDS: 4294	tRNA: 52	tmRNA: 1		
+bin.99.orig	54.34	0	0.695	Bacteria	Bacteria		37075	858891	contigs: 58	CDS: 850	rRNA: 2	tRNA: 38		
+bin.55.orig	54.32	8.106	0.656	Bacteria	Bacteria		2229	2769440	contigs: 1245	CDS: 3466	rRNA: 1	repeat_region: 3	tRNA: 58	tmRNA: 1
+bin.172.orig	54.27	5.228	0.717	Archaea	Euryarchaeota	Halobacteria 	4089	2737491	contigs: 742	CDS: 2958	tRNA: 25			
+bin.235.permissive	53.95	3.225	0.685	Bacteria	Bacteria		18782	4194979	contigs: 227	CDS: 3740	tRNA: 26	tmRNA: 1		
+bin.51.strict	53.52	0	0.645	Bacteria	Bacteria		18167	3390308	contigs: 309	CDS: 3117	tRNA: 25			
+bin.195.permissive	53.48	3.408	0.597	Bacteria	Proteobacteria	Proteobacteria 	6578	2885293	contigs: 540	CDS: 2818	tRNA: 23	tmRNA: 1		
+bin.155.strict	53.27	0	0.553	Archaea	Archaea	Halobacteria 	4585	2102908	contigs: 445	CDS: 1830	tRNA: 14			
+bin.234.orig	53.2	2.614	0.657	Archaea	Halobacteria	Halobacteria	46208	4263066	contigs: 127	CDS: 3867	tRNA: 23	tmRNA: 1		
+bin.27.strict	52.93	0	0.731	Bacteria	Bacteria		5132	3360250	contigs: 702	CDS: 3107	tRNA: 30	tmRNA: 1		
+bin.107.orig	52.79	0	0.734	Bacteria	Bacteria		5860	4719789	contigs: 831	CDS: 4220	repeat_region: 1	tRNA: 29		
+bin.72.orig	52.59	1.075	0.595	Bacteria	Bacteria		47175	5079791	contigs: 212	CDS: 4782	tRNA: 17			
+bin.218.orig	52.55	1.723	0.711	Archaea	Euryarchaeota		19088	2535964	contigs: 187	CDS: 2667	tRNA: 28			
+bin.208.orig	52.49	6.542	0.666	Archaea	Archaea	Stenosarchaea 	3785	1947759	contigs: 568	CDS: 2193	tRNA: 13			
+bin.181.orig	52.07	0	0.699	Bacteria	Bacteria		9784	4543199	contigs: 578	CDS: 4281	repeat_region: 1	tRNA: 24	tmRNA: 1	
+bin.151.orig	52.03	3.761	0.637	Bacteria	Bacteria	Salinibacter ruber	10658	3040960	contigs: 378	CDS: 2957	rRNA: 1	repeat_region: 1	tRNA: 24	
+bin.41.orig	52.02	4.205	0.699	Archaea	Archaea	Halobacteria	9121	3929898	contigs: 507	CDS: 4033	repeat_region: 1	tRNA: 19		
+bin.111.orig	51.88	5.172	0.657	Bacteria	Bacteria	Bacteroidetes 	7679	2902653	contigs: 394	CDS: 2712	tRNA: 34	tmRNA: 1		
+bin.185.strict	51.66	2.1	0.645	Bacteria	Bacteria		5833	6276219	contigs: 1102	CDS: 5785	tRNA: 37			
+bin.207.orig	51.54	0	0.582	Bacteria	Bacteria		15253	4223605	contigs: 349	CDS: 4109	tRNA: 26	tmRNA: 1		
+bin.49.orig	51.36	0	0.709	Bacteria	Bacteria	Alphaproteobacteria	51999	2228432	contigs: 81	CDS: 2016	repeat_region: 1	tRNA: 8	tmRNA: 1	
+bin.13.orig	51.15	1.724	0.658	Bacteria	Bacteria		23792	3544520	contigs: 192	CDS: 3211	rRNA: 1	tRNA: 47	tmRNA: 1	
+bin.148.orig	51.09	1.401	0.651	Archaea	Archaea	Halobacteria 	5205	1298300	contigs: 283	CDS: 1330	tRNA: 17			
+bin.232.orig	51.07	7.476	0.681	Archaea	Archaea	Halobacteria	12613	2090088	contigs: 298	CDS: 1884	rRNA: 1	repeat_region: 1	tRNA: 19	tmRNA: 1
+bin.6.orig	51.03	0.126	0.582	Bacteria	Gammaproteobacteria	Marinobacter	20852	4843394	contigs: 301	CDS: 4437	rRNA: 1	repeat_region: 3	tRNA: 9	tmRNA: 1
+bin.233.orig	50.93	3.72	0.621	Bacteria	Rhodothermaceae 	Salinibacter ruber	79112	2999958	contigs: 58	CDS: 2863	tRNA: 37	tmRNA: 1		
+bin.70.orig	50.79	1.123	0.491	Bacteria	Bacteria		5146	1707718	contigs: 487	CDS: 1837	tRNA: 26			
+bin.73.orig	50.71	0.427	0.732	Bacteria	Bacteria	Actinobacteria	6584	1750716	contigs: 257	CDS: 1736	tRNA: 16			
+bin.110.strict	50.46	2.714	0.602	Bacteria	Firmicutes	Terrabacteria 	12361	3737943	contigs: 402	CDS: 3267	tRNA: 22	tmRNA: 1		
+bin.149.orig	50.39	3.479	0.701	Bacteria	Bacteria		4548	4680411	contigs: 1052	CDS: 4192	tRNA: 26	tmRNA: 1		
+bin.159.orig	50.31	0	0.683	Bacteria	Bacteria	Proteobacteria 	5257	1900765	contigs: 424	CDS: 1897	tRNA: 24	tmRNA: 1		
